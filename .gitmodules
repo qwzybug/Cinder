@@ -1,0 +1,3 @@
+[submodule "externals/Cinder-Kinect"]
+	path = externals/Cinder-Kinect
+	url = git@github.com:qwzybug/Cinder-Kinect.git
